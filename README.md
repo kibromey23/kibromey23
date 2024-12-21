@@ -13,8 +13,8 @@ My goal is to leverage technology to create intelligent solutions like:
 - Other Interests: building websites,IoT.
 
 🌱 Currently Learning
-- Building and fine-tuning **Generative AI models**.
-- Developing state-of-the-art **chatbots** with frameworks like Rasa and Hugging Face.
+- Building and fine-tuning Generative AI models.
+- Developing state-of-the-art chatbots with frameworks like Rasa and Hugging Face.
 - Exploring robotics and automation using tools like ROS (Robot Operating System).
 
 📚 My Projects that i focused on
@@ -24,7 +24,8 @@ My goal is to leverage technology to create intelligent solutions like:
 
 
  🤝 Let's Connect
--Telegram :https/time/@kibromey23
+
+-Telegram : www.https/time/@kibromey23
 - Email : kibromey23@gmail.com
 - instagram: @kibromey23
 I'm always curious about how AI can improve our everyday lives, and I'm constantly exploring innovative ways to make technology more intuitive and accessible.

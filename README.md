@@ -1,6 +1,4 @@
 # Hi, I'm Kibrom! 👋
-
- 🚀 About me
 I'm an Information Technology student with a great passion for Machine Learning, Artificial Intelligence, and data science.
 My goal is to leverage technology to create intelligent solutions like:
 - 🗨️ Advanced chatbots for seamless human-computer interaction.

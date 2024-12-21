@@ -25,7 +25,7 @@ My goal is to leverage technology to create intelligent solutions like:
 
  🤝 Let's Connect
 
--Telegram : www.https/time/@kibromey23
+-Telegram : t.me/@kibromey23
 - Email : kibromey23@gmail.com
 - instagram: @kibromey23
 I'm always curious about how AI can improve our everyday lives, and I'm constantly exploring innovative ways to make technology more intuitive and accessible.
